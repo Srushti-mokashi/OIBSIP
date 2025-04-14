@@ -12,7 +12,7 @@ A visually appealing and responsive landing page for a coffee shop, built using 
 
 ## 🚀 Live Demo
 
-🔗 [Live Preview](https://srushti-mokashi.github.io/Landing-Page/) (Replace `#` with your live website link)
+🔗 [Live Preview](https://srushti-mokashi.github.io/Landing-Page/) 
 
 ## 🛠️ Technologies Used
 
